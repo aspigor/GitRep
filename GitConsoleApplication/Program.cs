@@ -9,6 +9,7 @@ namespace GitConsoleApplication
     {
         static void Main(string[] args)
         {
+            // komentar
         }
     }
 }
